@@ -105,6 +105,10 @@ kbd {
     background: rgba(100, 100, 100, 0.7); 
 }
 
+.joplin-source {
+    display: none;
+}
+
 /* Remove top padding and margin from first child so that top of rendered text is aligned to top of text editor text */
 
 #rendered-md > h1:first-child,
