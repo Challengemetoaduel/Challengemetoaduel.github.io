@@ -313,6 +313,10 @@
 			pointer-events: none;
 		}
 
+        .katex-mathml {
+            display: none;
+        }
+
 		/* Clear the CODE style if the element is within a joplin-editable block */
 		.mce-content-body .joplin-editable code {
 			border: none;
